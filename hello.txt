@@ -13,6 +13,5 @@ hello！first file!!
 hello！first file!!
 hello！first file!!
 hello！first file!!
-hello！first file!!master test
+hello！first file!!master test--v1
 hello！first file!!
-hello！first file!!hot-fix test
